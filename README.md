@@ -2,7 +2,8 @@
 
 ## About Me
 I am a Computer Science and Mathematics student at Saint Mary's University in Nova Scotia, Canada. I enjoy looking into the architecture of programming languages, and recently have been diving deeper into topics such as operating systems, computational geometry, and competition maths. 
-I also enjoy natural languages and language acquisition. Earlier this year, I had the opportunity to represent my university at a national competition for speakers of Japanese as a foreign language. I am currently an exchange student on a year abroad to Japan at Hiroshima University! Feel free to reach out to me via email [here](liam.jay@smu.ca), I would love to hear from you.
+<br /><br />
+I also enjoy natural languages and language acquisition. Earlier this year, I had the opportunity to represent my university at a nationally at a competition for speakers of Japanese as a foreign language. I am currently an exchange student on a year abroad to Japan at Hiroshima University! Feel free to reach out to me via email [here](liam.jay@smu.ca), I would love to hear from you.
 
 ## Tools I use
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
