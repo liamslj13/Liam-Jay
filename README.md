@@ -1,2 +1,31 @@
-# Liam-Jay
-About me page.
+# Hi there 👋, I'm Liam!
+
+## About Me
+I am a Computer Science and Mathematics student at Saint Mary's University in Nova Scotia, Canada. I enjoy looking into the architecture of programming languages, and recently have been diving deeper into topics such as operating systems, computational geometry, and competition maths. I also enjoy natural languages and language acquisition. I am currently an exchange student on a year abroad to Japan! Feel free to reach out to me via email [here](liam.jay@smu.ca).
+
+## Tools I use
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23F7B731?style=for-the-badge&logo=java&logoColor=white)
+![Manim](https://img.shields.io/badge/Manim-FFB13B?style=for-the-badge&logo=manim&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-3A56A4?style=for-the-badge&logo=godot&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+## Fields of Interest
+- Programming Languages
+- Functional Programming
+- Computational Geometry
+- Operating Systems
+- Artificial Intelligence
+- Natural Language Processing
+- Calculus/Analysis
+- Natural Languages
+
+### Connect with Me Below!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liam-jay-118838286/)
