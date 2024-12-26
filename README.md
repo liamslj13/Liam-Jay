@@ -51,5 +51,6 @@ I also enjoy natural languages and language acquisition. Earlier this year, I ha
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liam-jay-118838286/)
 
 
-## My Stats
-[![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=liamslj13)](https://github.com/liamslj13/github-readme-stats)
+## My Statistics
+![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=liamslj13&show_icons=true&theme=rose)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liamslj13)](https://github.com/liamslj13/github-readme-stats)
