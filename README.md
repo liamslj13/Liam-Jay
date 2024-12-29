@@ -5,8 +5,7 @@ I am a Computer Science and Mathematics student at Saint Mary's University in No
 <br /><br />
 My friends and I are currently building a few projects together. We are working on creating games for release on Roblox using Lua, and for release on other platforms with the Godot 4 engine and GDScript. 
 <br /><br />
-I also enjoy natural languages and language acquisition. Earlier this year, I had the opportunity to represent my university at a nationally at a competition for speakers of Japanese as a foreign language. I am currently an exchange student on a year abroad to Japan at Hiroshima University! Feel free to reach out to me via email [here](liam.jay@smu.ca), I would love to hear from you.
-
+I also enjoy natural languages and language acquisition. Earlier this year, I had the opportunity to represent my university nationally at a competition for speakers of Japanese as a foreign language. I am currently an exchange student on a year abroad to Japan at Hiroshima University! Feel free to reach out to me via email [here (school)](liam.jay@smu.ca), or [here (business)](liamslj13@gmail.com), I would love to hear from you.
 ## Tools I use
 ### Main Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
